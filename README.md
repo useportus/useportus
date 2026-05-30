@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://useportus.com">Website</a> ·
   <a href="https://useportus.com/cart">Portus Cart</a> ·
-  <a href="https://useportus.com/docs/portus-cart">Docs</a>
+  <a href="https://useportus.com/docs/portus-cart">Docs</a> ·
   <a href="mailto:plugins@useportus.com">Support</a>
 </p>
 
