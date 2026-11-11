@@ -8,7 +8,7 @@
   <a href="https://useportus.com">Website</a> ·
   <a href="https://useportus.com/cart">Portus Cart</a> ·
   <a href="https://useportus.com/portus-header/">Portus Header</a> ·
-  <a href="https://useportus.com/portus-cart-page-pro/">Portus Cart Page</a> ·
+  <a href="https://useportus.com/portus-cart-page/">Portus Cart Page</a> ·
   <a href="https://useportus.com/docs/">Documentation</a> ·
   <a href="mailto:plugins@useportus.com">Support</a>
 </p>
@@ -61,7 +61,7 @@ A responsive and customizable WooCommerce cart page that keeps native pricing, s
 - Settings panel and shortcode integration for page builders
 - Free edition on WordPress.org and a separate Pro extension
 
-[View Portus Cart Page →](https://useportus.com/portus-cart-page-pro/) · [WordPress.org →](https://wordpress.org/plugins/portus-cart-page/) · [Repository →](https://github.com/useportus/portus-cart-page)
+[View Portus Cart Page →](https://useportus.com/portus-cart-page/) · [WordPress.org →](https://wordpress.org/plugins/portus-cart-page/) · [Repository →](https://github.com/useportus/portus-cart-page)
 
 ## Open Source
 
@@ -80,7 +80,7 @@ Portus plugins are created and maintained by [Daniel Portela](https://github.com
 - Website: [useportus.com](https://useportus.com)
 - Portus Cart: [useportus.com/cart](https://useportus.com/cart)
 - Portus Header: [useportus.com/portus-header](https://useportus.com/portus-header/)
-- Portus Cart Page: [useportus.com/portus-cart-page-pro](https://useportus.com/portus-cart-page-pro/)
+- Portus Cart Page: [useportus.com/portus-cart-page](https://useportus.com/portus-cart-page/)
 - Documentation: [useportus.com/docs](https://useportus.com/docs/)
 - GitHub: [github.com/useportus](https://github.com/useportus)
 - Support: [plugins@useportus.com](mailto:plugins@useportus.com)
