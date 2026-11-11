@@ -8,7 +8,8 @@
   <a href="https://useportus.com">Website</a> ·
   <a href="https://useportus.com/cart">Portus Cart</a> ·
   <a href="https://useportus.com/portus-header/">Portus Header</a> ·
-  <a href="https://useportus.com/docs/portus-header/">Documentation</a> ·
+  <a href="https://useportus.com/portus-cart-page-pro/">Portus Cart Page</a> ·
+  <a href="https://useportus.com/docs/">Documentation</a> ·
   <a href="mailto:plugins@useportus.com">Support</a>
 </p>
 
@@ -34,7 +35,7 @@ A responsive AJAX side cart that lets customers review items, update quantities,
 - Theme compatibility controls
 - Free edition on WordPress.org and a separate Pro edition
 
-[View Portus Cart →](https://useportus.com/cart)
+[View Portus Cart →](https://useportus.com/cart) · [WordPress.org →](https://wordpress.org/plugins/portus-cart-for-woocommerce/) · [Repository →](https://github.com/useportus/portus-cart)
 
 ### Portus Header
 
@@ -47,18 +48,39 @@ A responsive and customizable WordPress header built for branded navigation.
 - Visual controls for colors, navigation, CTA, and compatibility
 - Free edition on WordPress.org and a separate Pro edition
 
-[View Portus Header →](https://useportus.com/portus-header/)
+[View Portus Header →](https://useportus.com/portus-header/) · [WordPress.org →](https://wordpress.org/plugins/portus-header/) · [Repository →](https://github.com/useportus/portus-header)
+
+### Portus Cart Page
+
+A responsive and customizable WooCommerce cart page that keeps native pricing, stock, coupons, shipping, and checkout validation.
+
+- Responsive cart page with adjustable container width and spacing
+- Stock-aware quantity controls, native coupons, and item removal
+- Native WooCommerce cross-sell recommendations available in Free
+- Configurable continue-shopping button and empty-cart presentation
+- Settings panel and shortcode integration for page builders
+- Free edition on WordPress.org and a separate Pro extension
+
+[View Portus Cart Page →](https://useportus.com/portus-cart-page-pro/) · [WordPress.org →](https://wordpress.org/plugins/portus-cart-page/) · [Repository →](https://github.com/useportus/portus-cart-page)
 
 ## Open Source
 
 Public repositories contain only the Free editions distributed through WordPress.org.
 
+All functionality included in the Free editions is available without a license key, trial period, or payment.
+
 Commercial Pro editions are distributed separately through Portus, with private licensing and update delivery.
+
+## Maintainer
+
+Portus plugins are created and maintained by [Daniel Portela](https://github.com/daniel-portela).
 
 ## Links
 
 - Website: [useportus.com](https://useportus.com)
 - Portus Cart: [useportus.com/cart](https://useportus.com/cart)
 - Portus Header: [useportus.com/portus-header](https://useportus.com/portus-header/)
+- Portus Cart Page: [useportus.com/portus-cart-page-pro](https://useportus.com/portus-cart-page-pro/)
 - Documentation: [useportus.com/docs](https://useportus.com/docs/)
+- GitHub: [github.com/useportus](https://github.com/useportus)
 - Support: [plugins@useportus.com](mailto:plugins@useportus.com)
